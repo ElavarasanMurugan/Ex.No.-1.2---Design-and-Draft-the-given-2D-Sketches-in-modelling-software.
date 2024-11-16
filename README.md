@@ -36,7 +36,8 @@
  ![image](https://user-images.githubusercontent.com/113594316/198233336-dd9f5c19-481b-486a-928a-99c32a732f89.png)
 
  ## OUTPUT
- ![Screenshot (46)](https://github.com/user-attachments/assets/2d476718-ff28-4ee7-9c40-6b1584b867e4)
+![Exercise 1 2 Drawing v3_page-0001](https://github.com/user-attachments/assets/db1912f4-cca0-42f8-af35-73f5749ef0a5)
+
 
  
  ## RESULT
